@@ -1,0 +1,148 @@
+Round,Player_iD,Opponent_iD,Weapon_Name,Weapon_Category,Round_Time,Game_Time,Damage,Opponent_X,Opponent_Y
+1,Luffy#hahaha,i screammm#sup,Ghost,Sidearms,57822,112849,135,7544,5111
+1,Hey Parth#nFx,Shoooter#007,Ghost,Sidearms,7291,62318,105,6445,899
+1,Hey Parth#nFx,John Wickk#9121,Ghost,Sidearms,8515,63542,135,5742,1740
+1,FireFly#3291,Hey Parth#nFx,Ghost,Sidearms,9057,64084,183,5993,-451
+1,Vulture#4932,ViNaMRE#nFx,Ghost,Sidearms,12388,67415,145,6345,1230
+1,ViNaMRE#nFx,FireFly#3291,Classic,Sidearms,11511,66538,108,5767,1371
+1,i screammm#sup,Charannnnn#uWu,Frenzy,Sidearms,54755,109782,156,7472,6478
+1,Himanshuuu#nxt,Vulture#4932,Sheriff,Sidearms,14076,69103,110,5816,1267
+2,Luffy#hahaha,Shoooter#007,Bulldog,Assault Rifles,9127,159007,115,5437,-2087
+2,Hey Parth#nFx,John Wickk#9121,Phantom,Assault Rifles,34391,184271,140,6883,-3732
+2,FireFly#3291,ViNaMRE#nFx,Sheriff,Sidearms,15963,165843,159,4550,268
+2,FireFly#3291,Himanshuuu#nxt,Sheriff,Sidearms,22744,172624,156,4766,-969
+2,FireFly#3291,Hey Parth#nFx,Vandal,Assault Rifles,40404,190284,160,4387,-3069
+2,i screammm#sup,Charannnnn#uWu,Marshal,Sniper Rifles,4159,154039,202,1698,-1702
+2,John Wickk#9121,Luffy#hahaha,Sheriff,Sidearms,30618,180498,159,5071,-4083
+3,Luffy#hahaha,John Wickk#9121,Sheriff,Sidearms,11740,239058,159,5939,3750
+3,FireFly#3291,ViNaMRE#nFx,,Melee,4280,231598,103,4001,5041
+3,Charannnnn#uWu,Shoooter#007,Sheriff,Sidearms,6063,233381,207,4232,5373
+3,Charannnnn#uWu,Vulture#4932,Sheriff,Sidearms,7989,235307,159,5881,4584
+3,Charannnnn#uWu,FireFly#3291,Sheriff,Sidearms,9077,236395,159,5707,4366
+3,Charannnnn#uWu,i screammm#sup,Vandal,Assault Rifles,26344,253662,160,7565,3703
+3,John Wickk#9121,Himanshuuu#nxt,Vandal,Assault Rifles,10385,237703,160,3557,4354
+4,Luffy#hahaha,Vulture#4932,Vandal,Assault Rifles,43874,334573,280,4544,350
+4,FireFly#3291,Charannnnn#uWu,Vandal,Assault Rifles,9915,300614,200,3627,2659
+4,FireFly#3291,Hey Parth#nFx,,Melee,23184,313883,150,5255,-1222
+4,Shoooter#007,Himanshuuu#nxt,Vandal,Assault Rifles,84237,374936,240,9336,5047
+4,i screammm#sup,Luffy#hahaha,Sheriff,Sidearms,81093,371792,165,8474,4754
+4,Himanshuuu#nxt,John Wickk#9121,Vandal,Assault Rifles,21875,312574,103,3694,191
+4,Himanshuuu#nxt,FireFly#3291,Vandal,Assault Rifles,27557,318256,137,5079,-489
+4,Himanshuuu#nxt,i screammm#sup,Vandal,Assault Rifles,82631,373330,280,7640,5014
+4,John Wickk#9121,ViNaMRE#nFx,Sheriff,Sidearms,17583,308282,159,5072,-816
+5,Hey Parth#nFx,John Wickk#9121,Phantom,Assault Rifles,70588,492553,274,8313,4967
+5,FireFly#3291,Charannnnn#uWu,Operator,Sniper Rifles,57451,479416,255,7798,3753
+5,FireFly#3291,ViNaMRE#nFx,Vandal,Assault Rifles,66732,488697,213,7377,6207
+5,FireFly#3291,Himanshuuu#nxt,Vandal,Assault Rifles,70638,492603,148,7575,6045
+5,i screammm#sup,Hey Parth#nFx,Vandal,Assault Rifles,73194,495159,190,8234,6012
+5,John Wickk#9121,Luffy#hahaha,Vandal,Assault Rifles,43550,465515,200,5618,4736
+6,Luffy#hahaha,i screammm#sup,Vandal,Assault Rifles,57417,602128,200,7375,4638
+6,ViNaMRE#nFx,Vulture#4932,,Melee,18319,563030,216,8190,4890
+6,ViNaMRE#nFx,Shoooter#007,Vandal,Assault Rifles,51101,595812,166,3958,2812
+6,i screammm#sup,Hey Parth#nFx,Vandal,Assault Rifles,45533,590244,200,6419,3877
+6,Himanshuuu#nxt,FireFly#3291,Vandal,Assault Rifles,57583,602294,160,7596,5992
+6,Charannnnn#uWu,John Wickk#9121,Vandal,Assault Rifles,55684,600395,160,7865,6491
+7,Vulture#4932,Hey Parth#nFx,Vandal,Assault Rifles,5102,644435,200,3460,2841
+7,Vulture#4932,Charannnnn#uWu,Vandal,Assault Rifles,34786,674119,215,5524,-3971
+7,ViNaMRE#nFx,Shoooter#007,Vandal,Assault Rifles,5602,644935,249,4663,4505
+7,Shoooter#007,Luffy#hahaha,Vandal,Assault Rifles,5585,644918,160,3995,2637
+7,Himanshuuu#nxt,FireFly#3291,Operator,Sniper Rifles,18467,657800,150,2550,2556
+7,Himanshuuu#nxt,Vulture#4932,Operator,Sniper Rifles,41226,680559,150,5926,-4536
+7,Charannnnn#uWu,i screammm#sup,Vandal,Assault Rifles,10175,649508,120,4154,1044
+7,John Wickk#9121,ViNaMRE#nFx,Vandal,Assault Rifles,42049,681382,240,6056,-3956
+7,John Wickk#9121,Himanshuuu#nxt,Vandal,Assault Rifles,47530,686863,157,5910,-4407
+8,Vulture#4932,ViNaMRE#nFx,Vandal,Assault Rifles,5315,729208,158,5337,5390
+8,Vulture#4932,Luffy#hahaha,Vandal,Assault Rifles,9521,733414,160,3541,3607
+8,Shoooter#007,Himanshuuu#nxt,Operator,Sniper Rifles,6162,730055,205,4470,5384
+8,Shoooter#007,Hey Parth#nFx,Operator,Sniper Rifles,11834,735727,171,5017,3868
+8,Charannnnn#uWu,FireFly#3291,Vandal,Assault Rifles,8706,732599,280,6333,4290
+8,John Wickk#9121,Charannnnn#uWu,Vandal,Assault Rifles,12111,736004,160,3626,4045
+9,Hey Parth#nFx,FireFly#3291,Sheriff,Sidearms,21506,794553,159,5350,-5376
+9,FireFly#3291,ViNaMRE#nFx,Vandal,Assault Rifles,15033,788080,160,5771,-5107
+9,FireFly#3291,Himanshuuu#nxt,Vandal,Assault Rifles,17782,790829,160,5132,-5117
+9,FireFly#3291,Luffy#hahaha,Vandal,Assault Rifles,20156,793203,160,4866,-3012
+9,Vulture#4932,Charannnnn#uWu,Vandal,Assault Rifles,12094,785141,160,1824,1701
+9,Shoooter#007,Hey Parth#nFx,Operator,Sniper Rifles,25984,799031,150,5771,-5203
+10,Luffy#hahaha,John Wickk#9121,Vandal,Assault Rifles,38139,874210,180,7194,-3581
+10,Hey Parth#nFx,i screammm#sup,Phantom,Assault Rifles,40083,876154,125,6982,-4643
+10,FireFly#3291,Himanshuuu#nxt,,Melee,20540,856611,152,5893,-4640
+10,ViNaMRE#nFx,FireFly#3291,Phantom,Assault Rifles,25497,861568,158,7457,-4235
+10,Charannnnn#uWu,Vulture#4932,Vandal,Assault Rifles,15874,851945,162,2388,2121
+10,Charannnnn#uWu,Shoooter#007,Vandal,Assault Rifles,21461,857532,200,2347,3261
+10,John Wickk#9121,ViNaMRE#nFx,Vandal,Assault Rifles,37600,873671,160,6120,-5255
+11,Luffy#hahaha,Vulture#4932,Vandal,Assault Rifles,7723,920915,160,5653,-2914
+11,Hey Parth#nFx,i screammm#sup,Phantom,Assault Rifles,19606,932798,136,5764,-4646
+11,Shoooter#007,ViNaMRE#nFx,Operator,Sniper Rifles,28727,941919,160,8037,-4911
+11,Himanshuuu#nxt,John Wickk#9121,Vandal,Assault Rifles,21398,934590,160,6596,-3541
+11,Himanshuuu#nxt,FireFly#3291,Vandal,Assault Rifles,44746,957938,200,8470,-2907
+11,Himanshuuu#nxt,Shoooter#007,,Melee,51805,964997,150,9146,-2491
+12,Hey Parth#nFx,Vulture#4932,Phantom,Assault Rifles,31977,1034013,180,3931,2625
+12,FireFly#3291,ViNaMRE#nFx,Vandal,Assault Rifles,45504,1047540,211,6958,4788
+12,FireFly#3291,Charannnnn#uWu,Vandal,Assault Rifles,57916,1059952,160,5955,5840
+12,FireFly#3291,Hey Parth#nFx,Vandal,Assault Rifles,74551,1076587,179,6042,6077
+12,Vulture#4932,Luffy#hahaha,Vandal,Assault Rifles,25934,1027970,160,5466,4735
+12,Vulture#4932,Himanshuuu#nxt,Vandal,Assault Rifles,28495,1030531,160,4246,4902
+12,ViNaMRE#nFx,i screammm#sup,,Melee,44828,1046864,150,7945,3787
+12,Himanshuuu#nxt,Shoooter#007,Operator,Sniper Rifles,20237,1022273,150,7200,6386
+12,Charannnnn#uWu,John Wickk#9121,Vandal,Assault Rifles,42153,1044189,200,7483,3646
+13,Luffy#hahaha,John Wickk#9121,Ghost,Sidearms,29692,1166347,116,5879,-3757
+13,Hey Parth#nFx,i screammm#sup,Classic,Sidearms,27438,1164093,151,4946,-4182
+13,ViNaMRE#nFx,Shoooter#007,Ghost,Sidearms,15571,1152226,108,6293,-4310
+13,ViNaMRE#nFx,Vulture#4932,Ghost,Sidearms,21839,1158494,165,6095,-3813
+13,i screammm#sup,ViNaMRE#nFx,Ghost,Sidearms,26097,1162752,123,6116,-3792
+13,Charannnnn#uWu,FireFly#3291,Ghost,Sidearms,21132,1157787,189,6060,-3950
+13,John Wickk#9121,Himanshuuu#nxt,Ghost,Sidearms,22717,1159372,102,6893,-4589
+13,John Wickk#9121,Charannnnn#uWu,Ghost,Sidearms,24684,1161339,115,6603,-3389
+13,John Wickk#9121,Hey Parth#nFx,Ghost,Sidearms,29561,1166216,135,5964,-4095
+14,Vulture#4932,Himanshuuu#nxt,Sheriff,Sidearms,11346,1214730,151,6979,4455
+14,ViNaMRE#nFx,John Wickk#9121,Marshal,Sniper Rifles,19024,1222408,101,4746,5336
+14,ViNaMRE#nFx,i screammm#sup,Bulldog,Assault Rifles,33883,1237267,132,6361,-400
+14,ViNaMRE#nFx,Shoooter#007,Bulldog,Assault Rifles,58609,1261993,156,6077,-3956
+14,ViNaMRE#nFx,FireFly#3291,Bulldog,Assault Rifles,61477,1264861,121,6488,-4159
+14,Shoooter#007,Hey Parth#nFx,Marshal,Sniper Rifles,13070,1216454,135,6401,2742
+14,Charannnnn#uWu,Vulture#4932,Marshal,Sniper Rifles,53444,1256828,179,7451,-4551
+15,Hey Parth#nFx,FireFly#3291,Bulldog,Assault Rifles,31530,1341947,150,7397,1978
+15,Hey Parth#nFx,Shoooter#007,Bulldog,Assault Rifles,44952,1355369,150,6962,6387
+15,ViNaMRE#nFx,i screammm#sup,Odin,Heavy Weapons,27040,1337457,135,6446,2995
+15,Shoooter#007,Luffy#hahaha,Vandal,Assault Rifles,36524,1346941,160,6977,4172
+15,Himanshuuu#nxt,Vulture#4932,Marshal,Sniper Rifles,19767,1330184,202,5558,3486
+15,Charannnnn#uWu,John Wickk#9121,Sheriff,Sidearms,93232,1403649,232,7253,201
+15,John Wickk#9121,Himanshuuu#nxt,Vandal,Assault Rifles,85835,1396252,163,7601,680
+16,Luffy#hahaha,Shoooter#007,Vandal,Assault Rifles,17134,1457826,217,7490,3736
+16,Luffy#hahaha,i screammm#sup,Vandal,Assault Rifles,92077,1532769,280,7414,-3397
+16,Luffy#hahaha,John Wickk#9121,Vandal,Assault Rifles,93028,1533720,216,6113,-3957
+16,Vulture#4932,Himanshuuu#nxt,Sheriff,Sidearms,26665,1467357,159,7799,-836
+16,ViNaMRE#nFx,FireFly#3291,,Melee,23029,1463721,133,6556,1117
+16,ViNaMRE#nFx,Vulture#4932,Odin,Heavy Weapons,29923,1470615,147,6957,-248
+16,i screammm#sup,Charannnnn#uWu,Bulldog,Assault Rifles,44040,1484732,231,7795,-825
+16,i screammm#sup,Hey Parth#nFx,Operator,Sniper Rifles,90673,1531365,150,6908,-4336
+16,John Wickk#9121,ViNaMRE#nFx,Sheriff,Sidearms,30492,1471184,219,6965,1156
+17,Hey Parth#nFx,Vulture#4932,Phantom,Assault Rifles,54216,1633865,234,4614,493
+17,ViNaMRE#nFx,John Wickk#9121,Operator,Sniper Rifles,46219,1625868,150,4587,-1726
+17,Himanshuuu#nxt,FireFly#3291,Operator,Sniper Rifles,33663,1613312,150,4918,-37
+17,Himanshuuu#nxt,i screammm#sup,Operator,Sniper Rifles,47379,1627028,150,5340,-302
+17,Charannnnn#uWu,Shoooter#007,Vandal,Assault Rifles,29148,1608797,302,5633,-5343
+18,Luffy#hahaha,i screammm#sup,Vandal,Assault Rifles,36635,1707545,250,4941,-473
+18,FireFly#3291,Hey Parth#nFx,Vandal,Assault Rifles,15664,1686574,160,6080,3209
+18,ViNaMRE#nFx,FireFly#3291,,Melee,15993,1686903,269,6463,2785
+18,ViNaMRE#nFx,Vulture#4932,Operator,Sniper Rifles,28281,1699191,255,4830,3978
+18,i screammm#sup,Himanshuuu#nxt,Bulldog,Assault Rifles,32721,1703631,175,5001,-225
+18,i screammm#sup,ViNaMRE#nFx,Bulldog,Assault Rifles,35568,1706478,168,6066,211
+18,Himanshuuu#nxt,Shoooter#007,Operator,Sniper Rifles,22222,1693132,167,6006,1306
+18,Himanshuuu#nxt,John Wickk#9121,,Melee,29139,1700049,130,4684,-27
+18,John Wickk#9121,Charannnnn#uWu,Vandal,Assault Rifles,26480,1697390,160,7651,274
+19,Luffy#hahaha,Shoooter#007,Vandal,Assault Rifles,23108,1775539,234,5848,1973
+19,Luffy#hahaha,Vulture#4932,Vandal,Assault Rifles,25886,1778317,160,6186,606
+19,Luffy#hahaha,i screammm#sup,Vandal,Assault Rifles,29490,1781921,160,5685,-454
+19,Luffy#hahaha,FireFly#3291,Vandal,Assault Rifles,31855,1784286,206,6548,981
+19,FireFly#3291,ViNaMRE#nFx,Judge,Shotguns,22217,1774648,154,7402,672
+19,Vulture#4932,Hey Parth#nFx,Guardian,Assault Rifles,21227,1773658,266,7645,1154
+19,Charannnnn#uWu,John Wickk#9121,Vandal,Assault Rifles,24060,1776491,160,6577,252
+20,Hey Parth#nFx,John Wickk#9121,Phantom,Assault Rifles,17194,1847354,140,5410,4841
+20,Hey Parth#nFx,FireFly#3291,Phantom,Assault Rifles,39902,1870062,195,7353,1115
+20,Hey Parth#nFx,i screammm#sup,Phantom,Assault Rifles,52892,1883052,156,6741,4321
+20,FireFly#3291,ViNaMRE#nFx,Vandal,Assault Rifles,14388,1844548,240,5837,6059
+20,Shoooter#007,Luffy#hahaha,Vandal,Assault Rifles,14264,1844424,200,7000,5977
+20,Shoooter#007,Himanshuuu#nxt,Vandal,Assault Rifles,15933,1846093,160,7354,6262
+20,Shoooter#007,Hey Parth#nFx,Vandal,Assault Rifles,60111,1890271,160,6807,3738
+20,Himanshuuu#nxt,Vulture#4932,Operator,Sniper Rifles,15753,1845913,150,6872,3775

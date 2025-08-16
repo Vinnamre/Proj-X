@@ -1,0 +1,3 @@
+team_id,name,has_won,rounds_won,rounds_lost,score,kills,deaths,assists,damage
+Red,Red,True,13,7,21931,81,66,33,14584
+Blue,Blue,False,7,13,18904,66,81,17,12365
